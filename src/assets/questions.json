@@ -1,0 +1,25 @@
+[
+    {
+      "question": "d/dx(x) = ?",
+      "answer": ["1"],
+      "translation": ""
+    },
+    {
+      "question": "d/dx(ax) = ? ",
+      "answer": ["a"],
+      "translation": "one, most"
+    },
+    {
+      "question": "d/dx(x^n) = ?",
+      "answer": ["n*x^(n-1)"],
+      "translation": "one, most"
+    },
+    {
+      "question": "d/dx(ax^n) = ?",
+      "answer": ["a*n*x^(n-1)"],
+      "translation": "one, most"
+    },
+
+
+
+]

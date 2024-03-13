@@ -1,10 +1,19 @@
+
 import './App.css'
+import Anki from './anki'
+import Head from './header'
+
 
 function App() {
 
+
+
   return (
     <>
-      <header/>
+    <div className='flex justify-center items-center'>
+      <Head/>
+      <Anki/>
+    </div>
     </>
   )
 }

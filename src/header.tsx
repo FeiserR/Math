@@ -1,14 +1,17 @@
+// import Body from "./body";
 
 
 
-function header () {
+function Head () {
+  
 
 // make the header pretty with tailwindcss
   return (
-    <header className="header container mx-auto p-4 bg-gray-300 text-center text-2xl font-bold text-gray-700 rounded-lg shadow-lg my-4 ">
-      <h1>Header</h1>
-    </header>
+    <>            
+    <div></div>
+    
+    </>
   )
 }
 
-export default header;
+export default Head;
